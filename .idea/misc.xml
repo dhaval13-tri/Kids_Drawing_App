@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/pallet_pressed.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_gallery.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/large.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/medium.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/pallet_normal.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/small.xml" value="0.1505" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_show_image.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/dialog_brush_size.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_custom_progress.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
